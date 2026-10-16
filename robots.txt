@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buildingdocsinspections.com.au/sitemap.xml
